@@ -10,9 +10,10 @@
 
 /* Carousel base class */
 .carousel {
-  height: 240px;
+  height: auto;
   margin-bottom: 30px;
 }
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
@@ -86,8 +87,12 @@ footer {
   background: #444;
   color: white;
   text-shadow: 1px 1px 1px black;
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+
+
+
+
